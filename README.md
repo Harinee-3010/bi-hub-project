@@ -11,7 +11,7 @@ An intelligent, full-stack web application that transforms raw data files into i
 
 **(Paste your Render URL here!)**
 
-`https-://your-app-name.onrender.com`
+`https://bi-hub-project.onrender.com/`
 
 ---
 
