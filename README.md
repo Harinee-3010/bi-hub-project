@@ -9,8 +9,6 @@ An intelligent, full-stack web application that transforms raw data files into i
 
 ## 🔴 Live Demo
 
-**(Paste your Render URL here!)**
-
 `https://bi-hub-project.onrender.com/`
 
 ---
