@@ -15,18 +15,6 @@ An intelligent, full-stack web application that transforms raw data files into i
 
 ---
 
-## 📸 Screenshots
-
-**(You MUST add your own screenshots. They are critical for showing your work.)**
-
-| AI-Generated Dashboard | "Chat with Data" (RAG) |
-| :---: | :---: |
-| *(Add your dashboard screenshot here)* | *(Add your chat screenshot here)* |
-| Sales Forecast Simulation | Customer Feedback Analyzer |
-| *(Add your simulation screenshot here)* | *(Add your feedback screenshot here)* |
-
----
-
 ## ✨ Core Features
 
 This application is divided into two main BI "engines," both powered by a hybrid AI architecture.
@@ -135,6 +123,5 @@ This is a multi-featured engine for analyzing structured (tabular) sales data.
 
 ## 👤 Author
 
-* **Hari**
+* **Harinee S**
 * [GitHub: @Harinee-3010](https://github.com/Harinee-3010)
-* (Add your LinkedIn or Portfolio link here!)
