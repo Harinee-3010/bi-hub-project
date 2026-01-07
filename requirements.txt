@@ -8,3 +8,4 @@ psycopg2-binary
 python-dotenv
 whitenoise
 openpyxl
+dj-database-url
