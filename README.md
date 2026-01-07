@@ -7,24 +7,6 @@
 
 An intelligent, full-stack web application that transforms raw data files into interactive dashboards and conversational insights using Generative AI. This project turns a user into a data analyst by providing a suite of AI-powered tools.
 
-## 🔴 Live Demo
-
-**(Paste your Render URL here!)**
-
-`https-://your-app-name.onrender.com`
-
----
-
-## 📸 Screenshots
-
-**(You MUST add your own screenshots. They are critical for showing your work.)**
-
-| AI-Generated Dashboard | "Chat with Data" (RAG) |
-| :---: | :---: |
-| *(Add your dashboard screenshot here)* | *(Add your chat screenshot here)* |
-| Sales Forecast Simulation | Customer Feedback Analyzer |
-| *(Add your simulation screenshot here)* | *(Add your feedback screenshot here)* |
-
 ---
 
 ## ✨ Core Features
@@ -135,6 +117,5 @@ This is a multi-featured engine for analyzing structured (tabular) sales data.
 
 ## 👤 Author
 
-* **Hari**
+* **Harinee S**
 * [GitHub: @Harinee-3010](https://github.com/Harinee-3010)
-* (Add your LinkedIn or Portfolio link here!)

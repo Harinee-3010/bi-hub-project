@@ -29,7 +29,7 @@ ENVIRONMENT = os.environ.get('ENVIRONMENT', 'development')
 DEBUG = (ENVIRONMENT == 'development')
 # --- END NEW ---
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # --- THIS IS NEW (For Render) ---
 # Render will tell us what our website's URL is
