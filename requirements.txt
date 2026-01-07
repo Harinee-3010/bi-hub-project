@@ -9,3 +9,4 @@ python-dotenv
 whitenoise
 openpyxl
 dj-database-url
+pymupdf
