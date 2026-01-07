@@ -1,1 +1,1 @@
-{ "builds": [{ "src": "bi_hub/wsgi.py", "use": "@vercel/python", "config": { "maxDuration": 60 } }], "routes": [ { "src": "/(.*)", "dest": "bi_hub/wsgi.py" } ] }
+{ "builds": [{ "src": "core/wsgi.py", "use": "@vercel/python", "config": { "maxDuration": 60 } }], "routes": [ { "src": "/(.*)", "dest": "core/wsgi.py" } ] }
