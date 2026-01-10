@@ -24,7 +24,7 @@ Please be patient — once it loads, it works instantly! ⚡
 </p>
 
 </div>
----
+
 
 ## ✨ Core Features
 
