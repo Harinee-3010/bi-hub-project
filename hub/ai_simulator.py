@@ -147,7 +147,7 @@ def run_sales_forecast(df: pd.DataFrame, sales_col: str, month_col: str, year_co
             return {"error": "The data was empty after cleaning. Check the date and sales columns."}
 
         df = df.set_index('__temp_date')
-        monthly_sales = df[sales_col].resample('M').sum()
+        monthly_sales = df[sales_col].resample('ME').sum()
         
         if len(monthly_sales) < 24:
             return {"error": f"Not enough data for a reliable forecast. Need at least 24 months of data, but found only {len(monthly_sales)}."}
