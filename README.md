@@ -7,7 +7,24 @@
 
 An intelligent, full-stack web application that transforms raw data files into interactive dashboards and conversational insights using Generative AI. This project turns a user into a data analyst by providing a suite of AI-powered tools.
 
----
+<div align="center">
+
+<!-- Simple Direct Link -->
+
+<h3>
+🚀 Live Demo: <a href="https://bi-hub-final.onrender.com">https://bi-hub-final.onrender.com</a>
+</h3>
+
+<!-- The Friendly Warning Message -->
+<p>
+<i>
+<b>⚠️ Note:</b> The server may take <b>50-60 seconds</b> to "wake up" on the first load.
+Please be patient — once it loads, it works instantly! ⚡
+</i>
+</p>
+
+</div>
+
 
 ## ✨ Core Features
 
