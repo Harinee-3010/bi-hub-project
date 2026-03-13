@@ -73,7 +73,7 @@ This is a multi-featured engine for analyzing structured (tabular) sales data.
 
 * **Backend:** **Python**, **Django**
 * **Database:** **PostgreSQL** (for production), **SQLite3** (for development)
-* **AI:** **Google Gemini AI API** (`gemini-1.5-flash`)
+* **AI:** **Google Gemini AI API** (`gemini-2.5-flash`)
 * **AI Architecture:** **RAG (Retrieval-Augmented Generation)**, specifically a JSON-based "Agent" for safe, structured data querying.
 * **Data Science:** **Pandas** (for data manipulation), **Statsmodels (SARIMA)** (for forecasting), **PyMuPDF** (for PDF parsing)
 * **Frontend:** **HTML5**, **Bootstrap 5**, **JavaScript**, **Chart.js**
