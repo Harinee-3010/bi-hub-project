@@ -13,7 +13,7 @@ warnings.simplefilter('ignore', ConvergenceWarning)
 api_key = settings.GOOGLE_AI_API_KEY
 if api_key:
     genai.configure(api_key=api_key)
-model = genai.GenerativeModel('gemini-2.5-flash-preview-09-2025')
+model = genai.GenerativeModel('gemini-1.5-flash')
 # -----------------------------
 
 # --- THIS IS THE NEW "AI SUMMARY" FUNCTION ---

@@ -35,7 +35,7 @@ def perform_analysis(uploaded_file_id):
     genai.configure(api_key=api_key)
     
     # --- THIS IS THE FIX: Reverted to the Flash model ---
-    model = genai.GenerativeModel('gemini-2.5-flash-preview-09-2025')
+    model = genai.GenerativeModel('gemini-1.5-flash')
     # --- END OF FIX ---
 
     prompt = f"""
