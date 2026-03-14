@@ -10,7 +10,7 @@ import sys
 api_key = settings.GOOGLE_AI_API_KEY
 if api_key:
     genai.configure(api_key=api_key)
-model = genai.GenerativeModel('gemini-2.5-flash')
+model = genai.GenerativeModel('gemini-2.5-flash-lite')
 # -----------------------------
 
 # --- THIS IS THE NEW, SAFER "NATURALIZER" ---
