@@ -14,7 +14,6 @@ An intelligent, full-stack web application that transforms raw data files into i
 <!-- The Friendly Warning Message -->
 <p>
 <i>
-<b>⚠️ Note:</b> The server may take <b>50-60 seconds</b> to "wake up" on the first load.
 Please be patient — once it loads, it works instantly! ⚡
 </i>
 </p>
