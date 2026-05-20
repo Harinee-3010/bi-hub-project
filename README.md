@@ -12,11 +12,6 @@ An intelligent, full-stack web application that transforms raw data files into i
 <!-- Simple Direct Link -->
 
 <!-- The Friendly Warning Message -->
-<p>
-<i>
-Please be patient — once it loads, it works instantly! ⚡
-</i>
-</p>
 
 </div>
 
